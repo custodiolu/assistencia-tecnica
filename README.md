@@ -17,7 +17,9 @@ Sistema web desenvolvido para gerenciamento completo de assistência técnica.
 
 # 📌 Sobre o Projeto
 
-O **UNITECH** é um projeto acadêmico de um sistema web criado para organizar os processos de uma assistência técnica, permitindo cadastro de clientes, equipamentos e controle de ordens de serviço.
+O **UNITECH** é um sistema web criado para organizar os processos de uma assistência técnica, permitindo cadastro de clientes, equipamentos e controle de ordens de serviço.
+
+Projeto desenvolvido com foco em praticidade, organização e experiência real de uso.
 
 ---
 
@@ -30,7 +32,7 @@ O **UNITECH** é um projeto acadêmico de um sistema web criado para organizar o
 ✅ Cadastro de equipamentos  
 ✅ Listagem de equipamentos  
 ✅ Nova Ordem de Serviço  
-✅ Consulta de Ordens  
+✅ Consulta de Ordens de Serviço  
 ✅ Atualização de status  
 
 ---
@@ -52,49 +54,49 @@ O **UNITECH** é um projeto acadêmico de um sistema web criado para organizar o
 
 ## 🔐 Tela de Login
 
-![Login](images/login.png)
+![Login](images/login.png.png)
 
 ---
 
 ## 📊 Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.png.png)
 
 ---
 
 ## 👥 Cadastro de Clientes
 
-![Cadastro Cliente](images/cadcliente.png)
+![Cadastro Cliente](images/cadcliente.png.png)
 
 ---
 
 ## 📋 Lista de Clientes
 
-![Lista Clientes](images/listaclientes.png)
+![Lista Clientes](images/listaclientes.png.png)
 
 ---
 
 ## 💻 Cadastro de Equipamentos
 
-![Cadastro Equipamentos](images/cadequip.png)
+![Cadastro Equipamentos](images/cadequip.png.png)
 
 ---
 
 ## 🗂️ Lista de Equipamentos
 
-![Lista Equipamentos](images/listaequip.png)
+![Lista Equipamentos](images/listaequip.png.png)
 
 ---
 
 ## 🛠️ Nova Ordem de Serviço
 
-![Nova Ordem](images/novaordem.png)
+![Nova Ordem](images/novaordem.png.png)
 
 ---
 
 ## 📑 Consulta de Ordens
 
-![Ordens](images/ordens.png)
+![Ordens](images/ordens.png.png)
 
 ---
 
