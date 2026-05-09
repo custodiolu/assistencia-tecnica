@@ -1,26 +1,41 @@
 # 🔧 Sistema de Assistência Técnica - UNITECH
 
-## 📌 Descrição
+<p align="center">
+Sistema web desenvolvido para gerenciamento completo de assistência técnica.
+</p>
 
-Sistema web desenvolvido para gerenciamento de uma assistência técnica, permitindo o controle de clientes, equipamentos e ordens de serviço.
+<p align="center">
 
-Projeto criado com foco em organização, praticidade e acompanhamento de atendimentos.
+![PHP](https://img.shields.io/badge/PHP-8+-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Banco-orange)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple)
+![Status](https://img.shields.io/badge/Projeto-Concluído-brightgreen)
 
----
-
-## 🚀 Funcionalidades
-
-- 🔐 Login de usuários
-- 👥 Cadastro de clientes
-- 💻 Cadastro de equipamentos
-- 📋 Abertura de Ordens de Serviço
-- 🔄 Atualização de status da OS
-- 📊 Dashboard com indicadores
-- 🧭 Navegação entre páginas
+</p>
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+# 📌 Sobre o Projeto
+
+O **UNITECH** é um projeto acadêmico de um sistema web criado para organizar os processos de uma assistência técnica, permitindo cadastro de clientes, equipamentos e controle de ordens de serviço.
+
+---
+
+# 🚀 Funcionalidades
+
+✅ Login de usuários  
+✅ Dashboard principal  
+✅ Cadastro de clientes  
+✅ Listagem de clientes  
+✅ Cadastro de equipamentos  
+✅ Listagem de equipamentos  
+✅ Nova Ordem de Serviço  
+✅ Consulta de Ordens  
+✅ Atualização de status  
+
+---
+
+# 🛠️ Tecnologias Utilizadas
 
 - PHP
 - MySQL
@@ -33,22 +48,61 @@ Projeto criado com foco em organização, praticidade e acompanhamento de atendi
 
 ---
 
-## 🗄️ Estrutura do Banco de Dados
+# 📸 Demonstração do Sistema
 
-Tabelas principais:
+## 🔐 Tela de Login
 
-- usuarios
-- clientes
-- equipamentos
-- ordens_servico
+![Login](images/login.png)
 
 ---
 
-## ⚙️ Como Executar o Projeto
+## 📊 Dashboard
 
-1. Instalar XAMPP  
-2. Iniciar Apache e MySQL  
-3. Colocar o projeto em:
+![Dashboard](images/dashboard.png)
+
+---
+
+## 👥 Cadastro de Clientes
+
+![Cadastro Cliente](images/cadcliente.png)
+
+---
+
+## 📋 Lista de Clientes
+
+![Lista Clientes](images/listaclientes.png)
+
+---
+
+## 💻 Cadastro de Equipamentos
+
+![Cadastro Equipamentos](images/cadequip.png)
+
+---
+
+## 🗂️ Lista de Equipamentos
+
+![Lista Equipamentos](images/listaequip.png)
+
+---
+
+## 🛠️ Nova Ordem de Serviço
+
+![Nova Ordem](images/novaordem.png)
+
+---
+
+## 📑 Consulta de Ordens
+
+![Ordens](images/ordens.png)
+
+---
+
+# ⚙️ Como Executar
+
+1. Instale o XAMPP  
+2. Inicie Apache e MySQL  
+3. Coloque o projeto em:
 
 ```text
 C:\xampp\htdocs\assistencia
